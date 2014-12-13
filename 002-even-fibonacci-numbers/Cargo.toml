@@ -1,0 +1,5 @@
+[package]
+
+name = "02-even-fibonacci-numbers"
+version = "0.0.1"
+authors = ["Alexander Mankuta <cheba@pointlessone.org>"]
