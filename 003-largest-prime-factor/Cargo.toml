@@ -1,0 +1,5 @@
+[package]
+
+name = "03-largest-prime-factor"
+version = "0.0.1"
+authors = ["Alexander Mankuta <cheba@pointlessone.org>"]
