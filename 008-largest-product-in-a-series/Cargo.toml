@@ -1,0 +1,5 @@
+[package]
+
+name = "008-largest-product-in-a-series"
+version = "0.0.1"
+authors = ["Alexander Mankuta <cheba@pointlessone.org>"]
