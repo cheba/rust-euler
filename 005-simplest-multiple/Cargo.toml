@@ -1,0 +1,5 @@
+[package]
+
+name = "005-simplest-multiple"
+version = "0.0.1"
+authors = ["Alexander Mankuta <cheba@pointlessone.org>"]
