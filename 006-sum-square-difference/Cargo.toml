@@ -1,0 +1,5 @@
+[package]
+
+name = "006-sum-square-difference"
+version = "0.0.1"
+authors = ["Alexander Mankuta <cheba@pointlessone.org>"]
